@@ -32,7 +32,7 @@ int main(){
         printf("Digite o tamanho do raio do círculo: \n");
         double raio;
         scanf("%lf", &raio);
-        double pi = 3.14;
+        double pi = 3,14159265358979323846;
         double perimetroCirculo = 2*pi*raio;
         printf("o perímetro (comprimento) do círculo é de: %.2lf", perimetroCirculo);
         break;
