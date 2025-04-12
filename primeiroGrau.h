@@ -1,6 +1,6 @@
 # ifndef primeiroGrauH
-#define primieroGrauH
+#define primeiroGrauH
 
-void resolverEquacaoPrimeiroGrau();
+void resolverEquacaoPrimeiroGrau(double a, double b);
 
 #endif
